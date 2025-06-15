@@ -10,6 +10,8 @@ The most generic kind of creative work, including books, movies, photographs, so
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [AmpStory](AmpStory/AmpStory.md)
 - [ArchiveComponent](ArchiveComponent/ArchiveComponent.md)
@@ -17,6 +19,7 @@ The most generic kind of creative work, including books, movies, photographs, so
 - [Atlas](Atlas/Atlas.md)
 - [Blog](Blog/Blog.md)
 - [Book](Book/Book.md)
+- [CategoryCodeSet](CategoryCodeSet/CategoryCodeSet.md)
 - [Certification](Certification/Certification.md)
 - [Chapter](Chapter/Chapter.md)
 - [Claim](Claim/Claim.md)
@@ -31,7 +34,6 @@ The most generic kind of creative work, including books, movies, photographs, so
 - [CreativeWorkSeries](CreativeWorkSeries/CreativeWorkSeries.md)
 - [DataCatalog](DataCatalog/DataCatalog.md)
 - [Dataset](Dataset/Dataset.md)
-- [DefinedTermSet](DefinedTermSet/DefinedTermSet.md)
 - [Diet](Diet/Diet.md)
 - [DigitalDocument](DigitalDocument/DigitalDocument.md)
 - [Drawing](Drawing/Drawing.md)

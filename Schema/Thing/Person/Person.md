@@ -10,6 +10,8 @@ A person (alive, dead, undead, or fictional).
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [Patient](Patient/Patient.md)
 

@@ -7,6 +7,8 @@ The most generic type of item.
 - **Type**: Type
 - **URI**: https://schema.org/Thing
 
+
+
 ## Child Classes
 - [Action](Action/Action.md)
 - [BioChemEntity](BioChemEntity/BioChemEntity.md)
@@ -18,6 +20,5 @@ The most generic type of item.
 - [Person](Person/Person.md)
 - [Place](Place/Place.md)
 - [Product](Product/Product.md)
-- [StupidType](StupidType/StupidType.md)
 - [Taxon](Taxon/Taxon.md)
 

@@ -10,6 +10,8 @@ An organization such as a school, NGO, corporation, club, etc.
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [Airline](Airline/Airline.md)
 - [Consortium](Consortium/Consortium.md)

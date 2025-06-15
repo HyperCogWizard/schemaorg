@@ -10,6 +10,8 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [ActionAccessSpecification](ActionAccessSpecification/ActionAccessSpecification.md)
 - [AlignmentObject](AlignmentObject/AlignmentObject.md)
@@ -58,7 +60,6 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 - [ParcelDelivery](ParcelDelivery/ParcelDelivery.md)
 - [PaymentMethod](PaymentMethod/PaymentMethod.md)
 - [Permit](Permit/Permit.md)
-- [ProductReturnPolicy](ProductReturnPolicy/ProductReturnPolicy.md)
 - [ProgramMembership](ProgramMembership/ProgramMembership.md)
 - [Property](Property/Property.md)
 - [PropertyValueSpecification](PropertyValueSpecification/PropertyValueSpecification.md)

@@ -10,6 +10,8 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [DietarySupplement](DietarySupplement/DietarySupplement.md)
 - [Drug](Drug/Drug.md)

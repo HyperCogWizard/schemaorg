@@ -1,0 +1,12 @@
+# LymphaticVessel
+
+## Description
+A type defined in Schema.org.
+
+## Schema.org Details
+- **Type**: Type
+- **URI**: https://schema.org/LymphaticVessel
+
+## Parent Classes
+- [Vessel](../Vessel.md)
+

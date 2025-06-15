@@ -10,6 +10,8 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [ChemicalSubstance](ChemicalSubstance/ChemicalSubstance.md)
 - [Gene](Gene/Gene.md)
