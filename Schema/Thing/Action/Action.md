@@ -12,6 +12,8 @@ See also <a href="https://blog.schema.org/2014/04/16/announcing-schema-org-actio
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [AchieveAction](AchieveAction/AchieveAction.md)
 - [AssessAction](AssessAction/AssessAction.md)

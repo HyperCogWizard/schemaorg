@@ -1,0 +1,12 @@
+# ReportageNewsArticle
+
+## Description
+A type defined in Schema.org.
+
+## Schema.org Details
+- **Type**: Type
+- **URI**: https://schema.org/ReportageNewsArticle
+
+## Parent Classes
+- [NewsArticle](../NewsArticle.md)
+

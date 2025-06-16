@@ -10,6 +10,8 @@ An event happening at a certain time and location, such as a concert, lecture, o
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [BusinessEvent](BusinessEvent/BusinessEvent.md)
 - [ChildrensEvent](ChildrensEvent/ChildrensEvent.md)
@@ -31,6 +33,5 @@ An event happening at a certain time and location, such as a concert, lecture, o
 - [SocialEvent](SocialEvent/SocialEvent.md)
 - [SportsEvent](SportsEvent/SportsEvent.md)
 - [TheaterEvent](TheaterEvent/TheaterEvent.md)
-- [UserInteraction](UserInteraction/UserInteraction.md)
 - [VisualArtsEvent](VisualArtsEvent/VisualArtsEvent.md)
 

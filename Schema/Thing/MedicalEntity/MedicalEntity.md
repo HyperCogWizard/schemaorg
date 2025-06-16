@@ -10,6 +10,8 @@ The most generic type of entity related to health and the practice of medicine.
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [AnatomicalStructure](AnatomicalStructure/AnatomicalStructure.md)
 - [AnatomicalSystem](AnatomicalSystem/AnatomicalSystem.md)

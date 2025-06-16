@@ -1,0 +1,12 @@
+# BodyMeasurementTypeEnumeration
+
+## Description
+A type defined in Schema.org.
+
+## Schema.org Details
+- **Type**: Type
+- **URI**: https://schema.org/BodyMeasurementTypeEnumeration
+
+## Parent Classes
+- [MeasurementTypeEnumeration](../MeasurementTypeEnumeration.md)
+

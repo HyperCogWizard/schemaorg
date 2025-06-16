@@ -10,6 +10,8 @@ Entities that have a somewhat fixed, physical extension.
 ## Parent Classes
 - [Thing](../Thing/Thing.md)
 
+
+
 ## Child Classes
 - [Accommodation](Accommodation/Accommodation.md)
 - [AdministrativeArea](AdministrativeArea/AdministrativeArea.md)
